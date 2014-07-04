@@ -1,0 +1,19 @@
+{
+  "name": "node_optimizer",
+  "version": "0.0.0",
+  "description": "optimize your node code for the v8 compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "fast.js":"",
+      "mocha":""
+  },    
+  "repository": "",
+  "keywords": [
+    "optimisation"
+  ],
+  "author": "krishnan",
+  "license": "BSD"
+}
